@@ -47,3 +47,5 @@ test-results
 checkpoints/
 security-scan/
 x86_64-pc-linux-gnu/
+qemu_*.core
+build-*/
