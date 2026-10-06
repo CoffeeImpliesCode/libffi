@@ -1,0 +1,8 @@
+.{
+    .name = .libffi,
+    .version = "8.0.0",
+    .minimum_zig_version = "0.16.0",
+    .fingerprint = 0x0000000000000001,
+    .paths = .{ "src", "include", "build.zig.zon" },
+    .dependencies = .{},
+}
